@@ -1,2 +1,2 @@
 # EmbedCWPt2
-2nd Embed Coursework Code for oooooooooooo netball
+2nd Embedded System Coursework Code for oooooooooooo netball
